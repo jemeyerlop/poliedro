@@ -1,3 +1,3 @@
 jQuery(document).ready(function($) {
-  alert('mi_JS');
+  alert('custom js');
 });

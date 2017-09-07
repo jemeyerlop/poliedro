@@ -1,7 +1,6 @@
 /*
-Theme Name: Bootstrap Base
+Theme Name: jQuery Base
 Author: Juan Enrique Meyer
 Version: 1.0
 */
-@import url('bootstrap/css/bootstrap.min.css');
-/*customization...*/
+@import url('css/css.min.css');
