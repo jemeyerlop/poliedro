@@ -1,6 +1,10 @@
 <?php
 //CONSTANTS
 	require_once ('php/constants.php');
+
+//OTHER FUNCTIONS
+	require_once ('php/other-functions.php');
+
 //TITLE
 	function baseTheme_filter_wp_title( $currenttitle, $sep, $seplocal ) {
 		//Grab the site name
